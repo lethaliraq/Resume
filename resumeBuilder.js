@@ -1,5 +1,5 @@
 var bio = {
-    'name': 'Firas Al samaree',
+    'name': 'Firas Al-samaree',
     'role': 'Web Developer',
     'contacts': {
         'mobile': '224-578-9536',
